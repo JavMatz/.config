@@ -1,0 +1,18 @@
+*
+!*/
+
+# Whitelist this file
+!.gitignore
+
+# Whitelist shell folder 
+!shell/**
+
+# Whitelist x11 folder
+!x11/**
+
+# Whitelist rofi folder
+!rofi/**
+
+!fontconfig/**
+
+!gtk-3.0/**
