@@ -5,15 +5,21 @@
 # Whitelist this file
 !.gitignore
 
-# Whitelist shell folder 
+# shell folder 
 !shell/**
 
-# Whitelist x11 folder
+# x11 folder
 !x11/**
 
-# Whitelist rofi folder
-!rofi/**
-
+# Font configuration
 !fontconfig/**
 
+# GTK configuration
 !gtk-3.0/**
+
+# Midnight Commander configuration
+
+!mc/**/**
+
+# Udev rules
+!udev/**
