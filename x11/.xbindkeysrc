@@ -42,13 +42,21 @@
 "xbindkeys_show" 
   control+shift + q
 
-# Control of backlight
+# Backlight control
 
 "xbacklight -dec 10"
   XF86MonBrightnessDown
 
 "xbacklight -inc 10"
   XF86MonBrightnessUp
+
+# Screenshots
+
+"kbd-screenshot"
+  Print
+
+"kbd-screenshot 1"
+  shift + Print
 
 # set directly keycode (here control + f with my keyboard)
 # "xterm"

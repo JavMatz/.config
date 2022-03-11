@@ -1,4 +1,4 @@
-xwallpaper --output eDP-1 --zoom ~/Imágenes/Wallpapers/electronic_wall.jpg
+xwallpaper --output eDP-1 --zoom ~/Imágenes/Wallpapers/azazel.jpg
 dwmblocks &
 xcompmgr -c -C -t-5 -l-5 -r4.2 -o.55 &
 megasync &
