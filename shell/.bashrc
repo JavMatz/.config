@@ -78,8 +78,10 @@ unset rc
 # Aliases
 
 alias ls="lsd"
-
+alias mc=". /usr/lib/mc/mc-wrapper.sh"
 alias open="xdg-open"
+alias vim="nvim"
+alias shutdown="shutdown -h now"
 
 # Customization
 
